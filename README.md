@@ -3,7 +3,8 @@
 This repository was created as part of my Cloud Engineering assessment.
 
 ## Objectives
-- Initialize a Git repository
+- Create a Git repository
 - Track project files with Git
 - Commit changes with meaningful messages
 - Push the repository to GitHub
+
