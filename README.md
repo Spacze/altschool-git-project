@@ -1,1 +1,11 @@
-# altschool-git-project
+# AltSchool Git Project
+
+This repository was created as part of my Cloud Engineering assessment.
+
+## Objectives
+- Initialize a Git repository
+- Track project files with Git
+- Commit changes with meaningful messages
+- Push the repository to GitHub
+
+:wq
