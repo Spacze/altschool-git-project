@@ -7,5 +7,3 @@ This repository was created as part of my Cloud Engineering assessment.
 - Track project files with Git
 - Commit changes with meaningful messages
 - Push the repository to GitHub
-
-:wq
